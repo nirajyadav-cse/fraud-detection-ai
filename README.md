@@ -8,6 +8,9 @@ I built this project to explore how Machine Learning can be used to identify tra
 
 This is an educational project created as part of my learning journey in Artificial Intelligence and Machine Learning.
 
+[🚀 Open AI Fraud Detection Dashboard](https://fraud-detection-ai-cc4wgrmz3l3hnxvytncclx.streamlit.app/)
+
+
 ## ✨ Features
 
 - Train a Machine Learning model to classify transaction-like data.
