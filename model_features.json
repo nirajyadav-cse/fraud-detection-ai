@@ -1,0 +1,8 @@
+[
+  "amount",
+  "time",
+  "merchant_risk",
+  "distance_from_home_km",
+  "failed_attempts_24h",
+  "is_international"
+]
